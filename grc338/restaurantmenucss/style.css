@@ -3,7 +3,7 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
 body {
 background-color: #f5f5f5; /* Not totally white. */
 color: #2f3243; /* Not totally black. */
-line-height: 150%; /* A little extra leading. */
+line-height: 140%; /* A little extra leading. */
 font-family: sans-serif; /* Use either serif or sans-serif. */
 }
 h1 {
@@ -25,7 +25,7 @@ font-weight: bold;
 margin: 0;
 }
 h3 {
-margin: 60 60 60px; /* Three values again. You got the idea. */
+margin: 30 30 30px; /* Three values again. You got the idea. */
 padding-top: 10px;
 font-size: 18px;
 color: #9F3B31;
